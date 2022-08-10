@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import{Button, Card} from 'react-bootstrap';
+import{Card} from 'react-bootstrap';
+
 
 
 export default class Animal extends Component {
@@ -8,20 +9,19 @@ export default class Animal extends Component {
     return (
       <>
       {/* passing data through the component. Need to use props */}
-      {/* <h1>{this.props.title}</h1>
-      <h3>{this.state.cart} added to cart</h3>
-      <p>{this.props.description}</p>
-      <p>{this.props.price}</p>
-      <p><img onClick = {() => this.handleClicks()} src = {this.props.image} alt = {this.props.title}></img></p> */}
 
-      <Card style  = {{width: '50rem'}}>
+      {/* <h2>{this.props.title}</h2>
+      <p><img src = {this.props.img} width = "300" height = "200"></img></p>
+      <p><h6>{this.props.description}</h6></p> */}
+
+      <Card style  = {{width: '30rem', backgroundColor: 'black', color: 'white', margin: "20px"}}>
         <Card.Img variant = "top" src={this.props.img} alt={this.props.title}/>
         <Card.Body>
           <Card.Title>{this.props.title}</Card.Title>
           <Card.Text>{this.props.description}</Card.Text>
+          <Card.Text>Horns: {this.props.horns}</Card.Text>
         </Card.Body>
       </Card>
-
       </>
     )
   }

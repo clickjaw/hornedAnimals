@@ -2,34 +2,39 @@
 "animal":[
 {
     "id": 1,
-    "title": "rhino",
-    "image": "../rhino.jpg",
-    "description": "The white rhino has an immense body and large head, a short neck and broad chest."
+    "title": "Rhino",
+    "image": "http://3.bp.blogspot.com/-Gwo708BG1i4/T1gaH42NxxI/AAAAAAAAB3Y/3G4y8ELH-Ww/s1600/Blue%2Brhinoceros%252C%2BCassell.jpg",
+    "description": "The white rhino has an immense body and large head, a short neck and broad chest.",
+    "horns": 2
 
 },
 {
     "id": 2,
-    "title": "narwhal",
-    "image": "../narwhal.jpg",
-    "description": "The narwhal is a medium-sized toothed whale that possesses a large 'tusk' from a protruding canine tooth. "
+    "title": "Narwhal",
+    "image": "https://staff.washington.edu/klaidre/wordpress/wp-content/uploads/2017/11/brown-narwhal.jpg",
+    "description": "The narwhal is a medium-sized toothed whale that possesses a large 'tusk' from a protruding canine tooth. ",
+    "horns": 1
 },
 {
     "id": 3,
-    "title": "bull",
-    "image": "../bull.jpg",
-    "description": "Cattle are large, domesticated, cloven-hooved, herbivores."
+    "title": "Bull",
+    "image": "https://live.staticflickr.com/7325/16524448072_cb5a3cc905_b.jpg",
+    "description": "Cattle are large, domesticated, cloven-hooved, herbivores.",
+    "horns": 2
 },
 {
     "id": 4,
-    "title": "unicorn",
-    "image": "../unicorn.jpg",
-    "description": "The unicorn is a legendary creature that has been described since antiquity as a beast with a single large, pointed, spiraling horn projecting from its forehead."
+    "title": "Unicorn",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Oftheunicorn.jpg/440px-Oftheunicorn.jpg",
+    "description": "The unicorn is a legendary creature that has been described since antiquity as a beast with a single large, pointed, spiraling horn projecting from its forehead.",
+    "horns": 1
 },
 {
     "id": 5,
-    "title": "gazelle",
-    "image": "../gazelle.jpg",
-    "description": "A gazelle is one of many antelope species in the genus Gazella."
+    "title": "Gazelle",
+    "image": "https://media.istockphoto.com/illustrations/illustration-of-a-gazelle-in-popular-encyclopedia-from-1890-illustration-id1225564266?k=20&m=1225564266&s=170667a&w=0&h=HAfOmMjq1tC288YO0PIj4jfriR_NgGvyftXO774hsgI=",
+    "description": "A gazelle is one of many antelope species in the genus Gazella.",
+    "horns": 2
 }
 
 
