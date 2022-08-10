@@ -1,16 +1,37 @@
 {
-"animals":[
+"animal":[
 {
+    "id": 1,
     "title": "rhino",
-    "image":
+    "image": "../rhino.jpg",
+    "description": "The white rhino has an immense body and large head, a short neck and broad chest."
 
 },
 {
+    "id": 2,
     "title": "narwhal",
+    "image": "../narwhal.jpg",
+    "description": "The narwhal is a medium-sized toothed whale that possesses a large 'tusk' from a protruding canine tooth. "
 },
 {
+    "id": 3,
+    "title": "bull",
+    "image": "../bull.jpg",
+    "description": "Cattle are large, domesticated, cloven-hooved, herbivores."
+},
+{
+    "id": 4,
+    "title": "unicorn",
+    "image": "../unicorn.jpg",
+    "description": "The unicorn is a legendary creature that has been described since antiquity as a beast with a single large, pointed, spiraling horn projecting from its forehead."
+},
+{
+    "id": 5,
     "title": "gazelle",
+    "image": "../gazelle.jpg",
+    "description": "A gazelle is one of many antelope species in the genus Gazella."
 }
+
 
 ]
 
